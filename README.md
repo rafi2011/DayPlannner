@@ -1,24 +1,22 @@
-# Repo_CodeQuiz-
-
-a simple calendar application that allows a user to save events for each hour of the day. 
+# work-day-scheduler
+This app is an interactive planner which was built using HTML, CSS, JavaScript and JQueries. 
 
 ## Getting Started
-* Clone me or fork me.
-* Live at: [github pages](https://rafi2011.github.io/Repo_CodeQuiz/)
 
+- clone me, or fork me
+- 🌎 live at: [Day-Planner] (https://rafi2011.github.io/DayPlannner/)
+
+## Deployment
+
+Just deploy, no other actions needed
 
 ## Built With
-* [jQuery](https://www.w3schools.com/jquery/) - Javascript Library
-* [moment.js](https://momentjs.com/) - momentjs.com
 
+* [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - logic
 
-## Authors
-
-See also the list of contributors who participated in this project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+## Author
+* Rafiun Nessa
 
 ## Acknowledgments
-* Hat tip to anyone whose code was used. 
-* **Billie Thompson** - *README* - [PurpleBooth](https://github.com/PurpleBooth)
+  - **Billie Thompson** - *README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
